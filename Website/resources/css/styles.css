@@ -1,0 +1,13 @@
+body {
+	margin: 0px;
+}
+
+.header {
+	display: flex;
+	height: 100px;
+	background-color: #1c1c1c;
+}
+
+.hdimg {
+	margin: 1% 0% 1% 10%;
+}
