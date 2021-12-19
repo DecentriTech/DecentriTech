@@ -1,5 +1,39 @@
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #1C1C1C;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #E3E3E3;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #4860FE;
+}
+
 body {
 	margin: 0px;
+	background-color: #232323;
+	font-family: sarabun;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #4860FE;
+	text-decoration: none;
+	font-weight: 400;
 }
 
 .header {
@@ -10,4 +44,34 @@ body {
 
 .hdimg {
 	margin: 1% 0% 1% 10%;
+}
+
+.sh1 {
+	margin: 10% 10% 0% 10%;
+	color: #ffffff;
+}
+
+.sh2 {
+	margin: 5% 10% 0% 10%;
+	color: #ffffff;
+}
+
+.services {
+	display: flex;
+	flex-direction: column;
+	margin: 1% 10% 2% 10%;
+	background-color: #1c1c1c;
+	border-radius: 10px;
+	color: #ffffff;
+	height: 100%;
+}
+
+.intxt {
+	margin: 1% 0% 0% 1%;
+}
+
+.intxt2 {
+	margin: 0% 0% 1% 1%;
+	font-style: italic;
+	font-weight: 300;
 }
