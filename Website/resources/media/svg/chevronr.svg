@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.848" height="24.696" viewBox="0 0 14.848 24.696">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path id="ChevronRight" class="cls-1" d="M0,0,8.812,8.812,17.625,0" transform="translate(3.536 21.16) rotate(-90)"/>
+</svg>
