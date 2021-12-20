@@ -109,14 +109,14 @@ a:hover {
 }
 
 .intxt2:hover {
-	color: #4860FE;
+	color: #fe48c1;
 	border: 1px solid;
 	border-radius: 10px;
 	padding: 10px;
 	margin: 1% 0% 1% 1%;
 	width: max-content;
 	font-weight: 600;
-	background-color: #4860fe1a;
+	background-color: #fe48c11a;
 	transition: 0.2s;
 }
 
@@ -155,7 +155,7 @@ a:hover {
 }
 
 .bold {
-	color: #4860FE;
+	color: #fe48c1;
 }
 
 /* Mobile */
@@ -214,14 +214,14 @@ a:hover {
 	}
 
 .intxt2:hover {
-	color: #4860FE;
+	color: #fe48c1;
 	border: 1px solid;
 	border-radius: 10px;
 	padding: 10px;
 	margin: 3% 1% 1% 1%;
 	width: max-content;
 	font-weight: 600;
-	background-color: #4860fe1a;
+	background-color: #fe48c11a;
 	transition: 0.2s;
 	}
 
@@ -230,7 +230,7 @@ a:hover {
 /* Animations */
 
 .anim {
-	background: linear-gradient(-45deg, #33CA7F, #205ce3);
+	background: linear-gradient(-45deg, #fe48c1, #ffcd58);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
