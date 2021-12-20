@@ -19,6 +19,10 @@
     background: #4860FE;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	margin: 0px;
 	background-color: #232323;
@@ -41,6 +45,20 @@ a:hover {
 	background-color: #1c1c1c;
 	flex-direction: row;
 	align-items: center;
+}
+
+.pageinfo {
+	display: flex;
+	align-items: center;
+	color: #ffffff;
+    width: 100%;
+    height: 700px;
+}
+
+.pageinf {
+	display: flex;
+	flex-direction: column;
+	margin-left: 10%;
 }
 
 .hh2 {
@@ -101,6 +119,28 @@ a:hover {
 	background-color: #4860fe1a;
 	transition: 0.2s;
 }
+
+.intxt3 {
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 1% 0% 1% 1%;
+	width: max-content;
+	font-weight: 600;
+	transition: 0.2s;
+}
+
+.intxt3:hover {
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 1% 0% 1% 1%;
+	width: max-content;
+	font-weight: 600;
+	background-color: #ffffff1a;
+	transition: 0.2s;
+}
+
 
 .info {
 	width: 48%;
@@ -185,4 +225,24 @@ a:hover {
 	transition: 0.2s;
 	}
 
+}
+
+/* Animations */
+
+.anim {
+	background: linear-gradient(-45deg, #33CA7F, #205ce3);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
