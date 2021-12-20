@@ -32,8 +32,7 @@ a {
 
 a:hover {
 	color: #4860FE;
-	text-decoration: none;
-	font-weight: 400;
+	text-decoration: bold;
 }
 
 .header {
@@ -70,10 +69,10 @@ a:hover {
 	display: flex;
 	flex-direction: column;
 	margin: 1% 10% 2% 10%;
+	padding: 10px;
 	background-color: #1c1c1c;
 	border-radius: 10px;
 	color: #ffffff;
-	height: 100%;
 }
 
 .intxt {
@@ -82,7 +81,7 @@ a:hover {
 
 .intxt2 {
 	margin: 0% 0% 1% 1%;
-	width: 100%;
+	width: max-content;
 	font-style: italic;
 	font-weight: 300;
 }
