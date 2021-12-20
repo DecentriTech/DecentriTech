@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-	color: #4860FE;
+	color: #ffffff;
 	text-decoration: bold;
 }
 
@@ -85,7 +85,8 @@ a:hover {
 	flex-direction: column;
 	margin: 1% 10% 2% 10%;
 	padding: 10px;
-	background-color: #1c1c1c;
+	background-color: #272727;
+	border: 1px solid #1c1c1c;
 	border-radius: 10px;
 	color: #ffffff;
 }
@@ -95,8 +96,35 @@ a:hover {
 }
 
 .intxt2 {
-	margin: 0% 0% 1% 1%;
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 1% 0% 1% 1%;
 	width: max-content;
-	font-style: italic;
-	font-weight: 300;
+	font-weight: 600;
+	transition: 0.2s;
+}
+
+.intxt2:hover {
+	color: #4860FE;
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 1% 0% 1% 1%;
+	width: max-content;
+	font-weight: 600;
+	background-color: #4860fe1a;
+	transition: 0.2s;
+}
+
+.info {
+	width: 48%;
+	margin: 1%;
+	border: solid 1px;
+	border-radius: 10px;
+	border-color: #ffffff;
+}
+
+.infop {
+	margin: 1% 0% 1% 1%;
 }
