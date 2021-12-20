@@ -43,6 +43,21 @@ a:hover {
 	align-items: center;
 }
 
+@media screen and (max-width: 750px) {
+.header {
+	display: flex;
+	height: 100px;
+	background-color: #1c1c1c;
+	flex-direction: row;
+	align-items: center;
+	}
+
+.hdimg {
+	width: 25% !important;
+	margin: 0% 5% 0% 0%;
+}
+}
+
 .hh2 {
 	display: flex;
 	align-items: center;
