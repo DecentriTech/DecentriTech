@@ -169,6 +169,13 @@ a:hover {
 	align-items: center;
 	}
 
+.pageinf {
+	display: flex;
+	flex-direction: column;
+	margin-left: 10%;
+	margin-right: 10%;
+	}	
+
 .sh1 {
 	margin: 10% 10% 3% 10%;
 	color: #ffffff;
