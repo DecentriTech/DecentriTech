@@ -105,7 +105,17 @@ a:hover {
 	transition: 0.2s;
 }
 
-.intxt2:hover {
+.intxt2:default {
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 1% 0% 1% 1%;
+	width: max-content;
+	font-weight: 600;
+	transition: 0.2s;
+}
+
+.intxt2:focus {
 	color: #4860FE;
 	border: 1px solid;
 	border-radius: 10px;
