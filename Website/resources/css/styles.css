@@ -43,21 +43,6 @@ a:hover {
 	align-items: center;
 }
 
-@media screen and (max-width: 750px) {
-.header {
-	display: flex;
-	height: 100px;
-	background-color: #1c1c1c;
-	flex-direction: row;
-	align-items: center;
-	}
-
-.hdimg {
-	width: 25% !important;
-	margin: 0% 5% 0% 0%;
-}
-}
-
 .hh2 {
 	display: flex;
 	align-items: center;
@@ -127,4 +112,69 @@ a:hover {
 
 .infop {
 	margin: 1% 0% 1% 1%;
+}
+
+.bold {
+	color: #4860FE;
+}
+
+/* Mobile */
+
+@media screen and (max-width: 750px) {
+.header {
+	display: flex;
+	height: 100px;
+	background-color: #1c1c1c;
+	flex-direction: row;
+	align-items: center;
+	}
+
+.services {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin: 1% 10% 2% 10%;
+	padding: 20px;
+	background-color: #272727;
+	border: 1px solid #1c1c1c;
+	border-radius: 10px;
+	color: #ffffff;
+	}
+
+.hdimg {
+	width: 25% !important;
+	margin: 0% 5% 0% 0%;
+	}
+
+.info {
+	width: 98%;
+	margin: 3%;
+	border: solid 1px;
+	border-radius: 10px;
+	border-color: #ffffff;
+	}
+
+.intxt2 {
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 3% 0% 1% 1%;
+	width: max-content;
+	font-weight: 600;
+	transition: 0.2s;
+	}
+
+.intxt2:hover {
+	color: #4860FE;
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 3% 0% 1% 1%;
+	width: max-content;
+	font-weight: 600;
+	background-color: #4860fe1a;
+	transition: 0.2s;
+	}
+
 }
