@@ -169,6 +169,16 @@ a:hover {
 	align-items: center;
 	}
 
+.sh1 {
+	margin: 10% 10% 3% 10%;
+	color: #ffffff;
+	}
+
+.sh2 {
+	margin: 5% 10% 3% 10%;
+	color: #ffffff;
+	}
+
 .services {
 	display: flex;
 	flex-direction: column;
