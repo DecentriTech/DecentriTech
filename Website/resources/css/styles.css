@@ -89,11 +89,13 @@ a:hover {
 }
 
 .sh1 {
+	font-weight: 800;
 	margin: 10% 10% 0% 10%;
 	color: #1c1c1c;
 }
 
 .sh2 {
+	font-weight: 800;
 	margin: 5% 10% 0% 10%;
 	color: #1c1c1c;
 }
@@ -242,11 +244,13 @@ a:hover {
 	}	
 
 .sh1 {
+    font-weight: 800;
 	margin: 10% 5% 3% 5%;
 	color: #1c1c1c;
 	}
 
 .sh2 {
+    font-weight: 800;
 	margin: 20% 5% 3% 5%;
 	color: #1c1c1c;
 	}
@@ -368,11 +372,13 @@ a:hover {
 }
 
 .sh1 {
+	font-weight: 800;
 	margin: 10% 10% 0% 10%;
 	color: #ffffff;
 }
 
 .sh2 {
+    font-weight: 800;
 	margin: 5% 10% 0% 10%;
 	color: #ffffff;
 }
@@ -517,11 +523,13 @@ a:hover {
 	}	
 
 .sh1 {
+    font-weight: 800;
 	margin: 10% 5% 3% 5%;
 	color: #ffffff;
 	}
 
 .sh2 {
+    font-weight: 800;
 	margin: 20% 5% 3% 5%;
 	color: #ffffff;
 	}
