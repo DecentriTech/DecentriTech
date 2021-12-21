@@ -201,6 +201,12 @@ a:hover {
     margin: 0%;
 	}
 
+.intxt {
+    border-bottom: 1px solid #1c1c1c;
+    padding: 2%;
+    margin: 0%;
+	}
+
 .pageinf {
 	display: flex;
 	flex-direction: column;
