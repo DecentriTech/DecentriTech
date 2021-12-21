@@ -1,6 +1,6 @@
 # DecentriTech
 
-![DecentriTech](https://github.com/NoahThatsWack/DecentriTech/blob/master/Website/resources/media/png/MBTIcon@3x.png?raw=true)
+![DecentriTech](https://github.com/NoahThatsWack/DecentriTech/blob/master/Website/resources/media/png/iconbname.png?raw=true)
 
 DecentriTech is a company working towards creating new and innovative resources, and services for anyone to use!
 
