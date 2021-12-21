@@ -104,7 +104,9 @@ a:hover {
 	display: flex;
     border-bottom: 1px solid #1c1c1c;
     border-radius: 10px 10px 0px 0px;
-    background-color: #fe48c11a;
+    background: linear-gradient(-45deg, #4860fe, #1c1c1c);
+    background-size: 400% 400%;
+    animation: gradient 30s ease infinite;
     padding: 1%;
     margin: 0%;
 }
