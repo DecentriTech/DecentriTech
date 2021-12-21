@@ -56,7 +56,7 @@ a:hover {
 }
 
 .sicon {
-	display: block;
+	display: none;
 	margin-right: 10px;
 	width: 35px;
 	height: 35px;
