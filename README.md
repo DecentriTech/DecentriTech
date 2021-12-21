@@ -4,10 +4,10 @@ DecentriTech is a company working towards creating new and innovative resources,
 
 **Our Projects and Services**
 
-- [Project Proven Extraordinary](https://www.provenextraordinary.com)
-- [Search-N-Ship](https://www.searchnship.com)
-- [Universal Server Hosting](https://www.universalservers.net)
-- [Decentrium](https://www.decentrium.org)
+- **[Project Proven Extraordinary](https://www.provenextraordinary.com) (active)**
+- [Search-N-Ship](https://www.searchnship.com) (Release: TBD)
+- [Universal Server Hosting](https://www.universalservers.net) (Release: TBD)
+- [Decentrium](https://www.decentrium.org) (Release: TBD)
 
 *Note: Some of our projects, and services are still under heavy development and may not be useable.*
 
