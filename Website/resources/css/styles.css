@@ -56,6 +56,7 @@ a:hover {
 }
 
 .sicon {
+	display: block;
 	margin-right: 10px;
 	width: 35px;
 	height: 35px;
@@ -229,7 +230,6 @@ a:hover {
 	}
 
 .hdimg {
-	display: block;
 	width: 25% !important;
 	margin: 0% 5% 0% 0%;
 	}
