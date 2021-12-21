@@ -4,7 +4,7 @@ DecentriTech is a company working towards creating new and innovative resources,
 
 **Our Projects and Services**
 
-- **[Project Proven Extraordinary](https://www.provenextraordinary.com) (ACTIVE)**
+- **[Project Proven Extraordinary](https://www.provenextraordinary.com) (Active)**
 - *[Search-N-Ship](https://www.searchnship.com) (Release: TBD)*
 - *[Universal Server Hosting](https://www.universalservers.net) (Release: TBD)*
 - *[Decentrium](https://www.decentrium.org) (Release: TBD)*
