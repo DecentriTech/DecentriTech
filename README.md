@@ -21,3 +21,5 @@ The end goal of each project is to provide a **unique**, and **high-quality** se
 While currently our reach is small, eventually we hope to make big changes in the world for the better of humanity. Whether that's space-tech, solving global-warming, etc, we want to help.
 
 *Thank you for being interested in what we have to say!*
+
+*- Noah Siler*
