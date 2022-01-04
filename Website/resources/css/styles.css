@@ -96,6 +96,14 @@ a:hover {
 	color: #FFFFFF;
 }
 
+.hh3 {
+	display: flex;
+	align-items: center;
+	margin-left: 10%;
+	color: #1c1c1c;
+}
+
+
 .hdimg {
 	width: 30%;
 	margin: 0% 5% 0% 0%;
@@ -206,6 +214,104 @@ a:hover {
 	color: #4860fe;
 }
 
+.footer {
+	margin-top: 10%;
+}
+
+.ftbg {
+	background-color
+}
+
+/* Footer */
+
+.centertext {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 50px;
+    margin-right: 10%;
+}
+
+.centertext2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.seperate {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #1c1c1c;
+}
+
+#finglets {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 1%;
+}
+
+.bg2 {
+    background-color: #ffffff;
+    margin-top: 10%;
+    width: 100%;
+    height: 400px;
+}
+
+.imgscale {
+    width: 35px;
+    margin-right: 15px;
+    filter: invert(93%) sepia(1%) saturate(322%) hue-rotate(314deg) brightness(102%) contrast(92%);
+}
+
+.txtstyle {
+    font-family: sarabun;
+    color: #1c1c1c;
+    margin: 5px;
+}
+
+.hiring {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+a.txtstyle {
+	font-size: 18px;
+    display: flex;
+    font-family: sarabun;
+    color: #1c1c1c;
+    text-decoration: none;
+    align-items: center;
+}
+
+a:hover.txtstyle {
+	font-size: 18px;
+    font-family: sarabun;
+    color: #1c1c1c;
+    text-decoration: none;
+    color: #fe48c1;
+}
+
+#toes {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0% 10% 0px 10%;
+}
+
+#toes2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 1.5% 10% 0px 10%;
+}
+
 /* Mobile */
 
 @media screen and (max-width: 750px) {
@@ -223,6 +329,13 @@ a:hover {
 	margin-left: 5%;
 	color: #FFFFFF;
 	}
+
+.hh3 {
+	display: flex;
+	align-items: center;
+	margin-left: 10%;
+	color: #1c1c1c;
+}
 
 .pageinfo {
 	display: flex;
@@ -390,6 +503,13 @@ a:hover {
 	color: #ffffff;
 }
 
+.hh3 {
+	display: flex;
+	align-items: center;
+	margin-left: 10%;
+	color: #ffffff;
+}
+
 .hdimg {
 	width: 30%;
 	margin: 0% 5% 0% 0%;
@@ -500,6 +620,95 @@ a:hover {
 	color: #fe48c1;
 }
 
+/* Footer */
+
+.centertext {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 50px;
+    margin-right: 10%;
+}
+
+.centertext2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.seperate {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+}
+
+#finglets {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 1%;
+}
+
+.bg2 {
+    background-color: #1c1c1c;
+    margin-top: 10%;
+    width: 100%;
+    height: 400px;
+}
+
+.imgscale {
+    width: 35px;
+    margin-right: 15px;
+}
+
+.txtstyle {
+    font-family: sarabun;
+    color: #ffffff;
+    margin: 5px;
+}
+
+.hiring {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+a.txtstyle {
+	font-size: 18px;
+    display: flex;
+    font-family: sarabun;
+    color: #ffffff;
+    text-decoration: none;
+    align-items: center;
+}
+
+a:hover.txtstyle {
+	font-size: 18px;
+    font-family: sarabun;
+    color: #ffffff;
+    text-decoration: none;
+    color: #fe48c1;
+}
+
+#toes {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0% 10% 0px 10%;
+}
+
+#toes2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 1.5% 10% 0px 10%;
+}
+
 /* Mobile */
 
 @media screen and (max-width: 750px) {
@@ -517,6 +726,14 @@ a:hover {
 	margin-left: 5%;
 	color: #ffffff;
 	}
+
+.hh3 {
+	display: flex;
+	align-items: center;
+	margin-left: 5%;
+	color: #ffffff;
+	}
+
 
 .pageinfo {
 	display: flex;
