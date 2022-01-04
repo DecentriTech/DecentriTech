@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<link rel="stylesheet" type="text/css" href="resources/css/styles.css">
-	<link id="favicon" rel="shortcut icon" type="image/x-icon" href="resources/media/png/MBTIcon@3x.png">
+	<link id="favicon" rel="shortcut icon" type="image/x-icon" href="resources/media/png/favicon.png">
 	<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet">
 	<style>
      	input:focus, textarea:focus, select:focus {
@@ -61,7 +61,7 @@
 				<li>Quick and Easy Communication</li>
 			</ul>
 		</div>
-		<p class="intxt2">Contact@DecentriTech.org</p>
+		<p id="copy" class="intxt2" value="Contact@DecentriTech.org" onclick="copyEvent(id)">Contact@DecentriTech.org</p>
 	</div>
 	<div class="services">
 		<h2 class="intxtt"><img class="sicon" src="resources/media/png/iconw.png">Mobile App Design</h2>
@@ -75,7 +75,7 @@
 				<li>Quick and Easy Communication</li>
 			</ul>
 		</div>
-		<p class="intxt2">Contact@DecentriTech.org</p>
+		<p id="copy" class="intxt2" value="Contact@DecentriTech.org" onclick="copyEvent(id)">Contact@DecentriTech.org</p>
 	</div>
 	
 <!-- Footer -->
@@ -111,5 +111,17 @@
 		</div>							
 	</div>
 </footer>
+
+<!-- Java -->
+<script>
+    function copyEvent(id)
+    {
+        var str = document.getElementById(id);
+        window.getSelection().selectAllChildren(str);
+        document.execCommand("Copy")
+        alert('Copied to Clipboard')
+    }
+</script>
+
 </body>
 </html>

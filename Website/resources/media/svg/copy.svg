@@ -1,0 +1,17 @@
+<svg id="Group_168" data-name="Group 168" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3e3e3;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_448" data-name="Rectangle 448" class="cls-1" width="4" height="17" rx="2"/>
+  <rect id="Rectangle_455" data-name="Rectangle 455" class="cls-1" width="4" height="17" rx="2" transform="translate(6 6)"/>
+  <path id="Rectangle_451" data-name="Rectangle 451" class="cls-1" d="M2,0H2A2,2,0,0,1,4,2V5A0,0,0,0,1,4,5H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(13)"/>
+  <rect id="Rectangle_453" data-name="Rectangle 453" class="cls-1" width="4" height="17" rx="2" transform="translate(19 6)"/>
+  <rect id="Rectangle_449" data-name="Rectangle 449" class="cls-1" width="4" height="17" rx="2" transform="translate(17) rotate(90)"/>
+  <rect id="Rectangle_454" data-name="Rectangle 454" class="cls-1" width="4" height="17" rx="2" transform="translate(23 6) rotate(90)"/>
+  <path id="Rectangle_450" data-name="Rectangle 450" class="cls-1" d="M0,0H4A0,0,0,0,1,4,0V3A2,2,0,0,1,2,5H2A2,2,0,0,1,0,3V0A0,0,0,0,1,0,0Z" transform="translate(5 13) rotate(90)"/>
+  <rect id="Rectangle_452" data-name="Rectangle 452" class="cls-1" width="4" height="17" rx="2" transform="translate(23 19) rotate(90)"/>
+</svg>
