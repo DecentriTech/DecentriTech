@@ -6,6 +6,7 @@ DecentriTech is a company working towards creating new and innovative resources,
 
 - **[Project Proven Extraordinary](https://www.provenextraordinary.com) (Active)**
 - **[Search-N-Ship](https://www.searchnship.com) (Active)**
+- **[HSMP By Universal Servers](https://mc.universalservers.net) (Active)**
 - *[Universal Server Hosting](https://www.universalservers.net) (Release: TBD)*
 - *[Decentrium](https://www.decentrium.org) (Release: TBD)*
 
@@ -15,7 +16,7 @@ DecentriTech is a company working towards creating new and innovative resources,
 
 ## About DecentriTech
 
-DecentriTech currently has `one` employee. We currently have `2` active projects under development, and `2` under heavy development.
+DecentriTech currently has `one` employee. We currently have `3` active projects under development, and `2` under heavy development.
 The end goal of each project is to provide a **unique**, and **high-quality** service to all users.
 
 While currently our reach is small, eventually we hope to make big changes in the world for the better of humanity. Whether that's space-tech, solving global-warming, etc, we want to help.
