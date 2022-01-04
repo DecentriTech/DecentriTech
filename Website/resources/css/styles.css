@@ -49,6 +49,18 @@ a:hover {
 	padding: 0.5% 1%;
 }
 
+.hs {
+    font-size: 15px;
+    font-weight: bold;
+    color: #4860fe;
+    width: 100px;
+    background-color: #E3E3E3;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 2.5% 2%;
+    text-align: center;
+}
+
 .anim {
     background: linear-gradient(-45deg, #4860fe, #25ffa6);
 	background-size: 400% 400%;
@@ -286,6 +298,7 @@ a.txtstyle {
     color: #1c1c1c;
     text-decoration: none;
     align-items: center;
+    height: 23px;
 }
 
 a:hover.txtstyle {
@@ -504,6 +517,19 @@ a:hover {
 	margin-left: 10px;
 	padding: 0.5% 1%;
 }
+
+.hs {
+    font-size: 15px;
+    font-weight: bold;
+    color: #fe48c1;
+    width: 100px;
+    background-color: #232323;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 2.5% 2%;
+    text-align: center;
+}
+
 
 .anim {
 	background: linear-gradient(-45deg, #fe48c1, #ffcd58);
@@ -728,6 +754,7 @@ a.txtstyle {
     color: #ffffff;
     text-decoration: none;
     align-items: center;
+    height: 23px;
 }
 
 a:hover.txtstyle {
