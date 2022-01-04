@@ -129,6 +129,7 @@ a:hover {
     border-radius: 10px 10px 0px 0px;
     padding: 1%;
     margin: 0%;
+    align-items: center;
 }
 
 .intxt {
@@ -240,6 +241,7 @@ a:hover {
     width: 98%;
     padding: 1%;
     margin: 0%;
+    align-items: center;
 	}
 
 .intxt {
