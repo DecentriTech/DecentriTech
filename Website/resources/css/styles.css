@@ -63,6 +63,11 @@ a:hover {
     height: 700px;
 }
 
+.buttons {
+	display: flex;
+	flex-direction: row;
+}
+
 .sicon {
 	display: none;
 	margin-right: 10px;
@@ -464,6 +469,10 @@ a:hover {
 }
 
 .infop {
+	margin: 2% 0% 2% 1%;
+}
+
+.infopp {
 	margin: 2% 0% 2% 1%;
 }
 
