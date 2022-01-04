@@ -269,7 +269,7 @@ a:hover {
     background-color: #ffffff;
     margin-top: 10%;
     width: 100%;
-    height: 400px;
+    height: auto;
 }
 
 .imgscale {
@@ -725,7 +725,7 @@ a:hover {
     background-color: #1c1c1c;
     margin-top: 10%;
     width: 100%;
-    height: 400px;
+    height: auto;
 }
 
 .imgscale {
