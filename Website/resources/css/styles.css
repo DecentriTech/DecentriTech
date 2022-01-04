@@ -705,6 +705,7 @@ a:hover {
 .imgscale {
     width: 35px;
     margin-right: 15px;
+    filter: invert(0%);
 }
 
 .txtstyle {
@@ -785,6 +786,7 @@ a:hover.txtstyle {
 .imgscale {
     width: 25px;
     margin-right: 15px;
+    filter: invert(0%);
 	}
 
 #toes {
