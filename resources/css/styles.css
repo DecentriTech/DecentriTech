@@ -740,11 +740,13 @@ a:hover.txtstyle2 {
 h2.positiontxt {
     margin-bottom: 1px;
     margin-top: 0px;
+    text-align: center;
 }
 
 p.positiontxt {
     margin-bottom: 1px;
     margin-top: 0px;
+    text-align: center;
 }
 
 .positiontxt {
