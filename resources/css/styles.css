@@ -241,12 +241,13 @@ button {
     width: fit-content;
 }
 
-h2,p.positiontxt {
+h2.positiontxt {
     margin-bottom: 1px;
 }
 
 p.positiontxt {
     font-weight: 100;
+    margin-bottom: 1px;
 }
 
 /* Benefits */
