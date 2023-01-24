@@ -756,6 +756,10 @@ a:hover.txtstyle2 {
     margin-top: 3px;
 }
 
+.width {
+    width: 45vw;
+}
+
 .byebye {
     display: none;
 }
