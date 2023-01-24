@@ -753,6 +753,7 @@ a:hover.txtstyle2 {
 
 .txt {
     text-align: center;
+    margin-bottom: 3px;
 }
 
 .positiontxt {
