@@ -756,6 +756,10 @@ a:hover.txtstyle2 {
     margin-top: 3px;
 }
 
+.byebye {
+    display: none;
+}
+
 .positiontxt {
     display: flex;
     flex-direction: column;
