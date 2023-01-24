@@ -710,6 +710,20 @@ a:hover.txtstyle2 {
     flex-direction: column;
 }
 
+.headercontent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#headerbg {
+    display: flex;
+    margin: 5% 10% 10% 10%;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
 /* team */
 .teamcontent {
     display: flex;
