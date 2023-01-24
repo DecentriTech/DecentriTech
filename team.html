@@ -52,7 +52,7 @@
 
 <!-- Team -->
 <div id="teambg">
-	<div id="teamcontent" class="teamcontent">
+	<div id="row1" class="teamcontent">
 		<div class="team">
 			<img class="circle" src="resources/media/team/default.png">
 			<h3 class="teamtxt">Colby Hansen</h3>
@@ -77,7 +77,7 @@
 </div>
 <script type="text/javascript">
 function shuffle() {
-  var container = document.getElementById("teamcontent");
+  var container = document.getElementById("row1");
   var elementsArray = Array.prototype.slice.call(container.getElementsByClassName('team'));
 	elementsArray.forEach(function(element){
   	container.removeChild(element);
