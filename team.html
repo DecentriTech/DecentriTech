@@ -53,22 +53,22 @@
 <!-- Team -->
 <div id="teambg">
 	<div id="row1" class="teamcontent">
-		<div class="team">
+		<div class="team social">
 			<img class="circle" src="resources/media/team/default.png">
 			<h3 class="teamtxt">Colby Hansen</h3>
 			<p class="teamtxt2">Co-Founder</p>
 		</div>	
-		<div class="team">
+		<div class="team social">
 			<img class="circle" src="resources/media/team/milkdot.png">
 			<h3 class="teamtxt">milkdot</h3>
 			<p class="teamtxt2">Lead Game Designer</p>
 		</div>		
-		<div class="team">
+		<div class="team social">
 			<img class="circle" src="resources/media/team/noah.jpg">
 			<h3 class="teamtxt">Noah Siler</h3>
 			<p class="teamtxt2">Co-Founder, Programmer, Designer</p>
 		</div>
-		<div class="team">
+		<div class="team social">
 			<img class="circle" src="resources/media/team/theprofessor.png">
 			<h3 class="teamtxt">The Professor</h3>
 			<p class="teamtxt2">Programmer</p>
@@ -78,7 +78,7 @@
 <script type="text/javascript">
 function shuffle() {
   var container = document.getElementById("row1");
-  var elementsArray = Array.prototype.slice.call(container.getElementsByClassName('team'));
+  var elementsArray = Array.prototype.slice.call(container.getElementsByClassName('social'));
 	elementsArray.forEach(function(element){
   	container.removeChild(element);
   })
