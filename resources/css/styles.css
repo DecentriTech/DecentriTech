@@ -737,13 +737,7 @@ a:hover.txtstyle2 {
     flex-direction: column;
 }
 
-h2.positiontxt {
-    margin-bottom: 1px;
-    margin-top: 0px;
-    text-align: center;
-}
-
-p.positiontxt {
+.txt {
     margin-bottom: 1px;
     margin-top: 0px;
     text-align: center;
