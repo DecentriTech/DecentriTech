@@ -185,7 +185,7 @@ button {
 .aboutcontent {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .aboutcontent2 {
