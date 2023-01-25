@@ -373,7 +373,7 @@ input[type=submit]:hover {
 }
 
 input[type=text] {
-    width: 14vw;
+    width: 12vw;
     margin: 10px 0px 0px 5px;
     padding: 0px 10px;
     border-radius: 10px;
@@ -386,7 +386,7 @@ input[type=text] {
 }
 
 input.alt[type=text] {
-    width: 14vw;
+    width: 12vw;
     margin: 10px 0px 0px 0px;
     padding: 0px 10px;
     border-radius: 10px;
@@ -399,7 +399,7 @@ input.alt[type=text] {
 }
 
 input[type=email] {
-    width: 14vw;
+    width: 12vw;
     margin: 10px 0px 0px 5px;
     padding: 0px 10px;
     border-radius: 10px;
@@ -412,7 +412,7 @@ input[type=email] {
 }
 
 input.alt[type=email] {
-    width: 14vw;
+    width: 12vw;
     margin: 10px 0px 0px 0px;
     padding: 0px 10px;
     border-radius: 10px;
