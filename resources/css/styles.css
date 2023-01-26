@@ -808,6 +808,14 @@ input.alt[type=email] {
     height: 40px;
 }
 
+/* about */
+
+.aboutcontent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /* benefits */
 
 .benefits {
