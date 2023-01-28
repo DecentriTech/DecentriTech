@@ -67,6 +67,10 @@ button {
     align-items: flex-start
 }
 
+.width {
+    width: 30vw;
+}
+
 
 /* Backgrounds */
 .background-top {
