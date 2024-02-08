@@ -11,11 +11,6 @@ We're not your typical corporate tech company. We're a team of real people who a
 ## **Our Projects and Services**
 
 - **[DecentriTech Studios](https://studio.decentritech.com) (Active)**
-- **[Project Proven Extraordinary](https://www.provenextraordinary.com) (Active)**
-- **[LHG Clean](https://www.lhgclean.com) (Active)**
-- *[HSMP By Universal Servers](https://mc.universalservers.net) (Release: TBD)*
-- *[Universal Server Hosting](https://www.universalservers.net) (Release: TBD)*
-- *[Decentrium](https://www.decentrium.org) (Release: TBD)*
 
 *Note: Some of our projects, and services are still under heavy development and may not be useable.*
 
@@ -23,7 +18,7 @@ We're not your typical corporate tech company. We're a team of real people who a
 
 ## About DecentriTech
 
-DecentriTech currently has `three` employees. We currently have `3` active projects under development, and `4` under heavy development. Some projects may not be actively listed as they are considered confidential at the moment. The end goal of each project is to provide a **unique**, and **high-quality** service to all users.
+DecentriTech currently has `two` employees. We currently have `1` active project(s) under development, and `1` under heavy development. Some projects may not be actively listed as they are considered confidential at the moment. The end goal of each project is to provide a **unique**, and **high-quality** service to all users.
 
 While currently our reach is small, eventually we hope to make big changes in the world for the better of humanity. Whether that's space-tech, solving global-warming, etc, we want to help.
 
